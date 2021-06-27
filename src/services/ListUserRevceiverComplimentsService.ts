@@ -1,6 +1,7 @@
 import { getCustomRepository } from "typeorm";
 import { ComplimetRepositories } from "../repositories/ComplimentsRepositories";
 import { hash } from "bcryptjs";
+import { classToPlain } from "class-transformer";
 
 class ListUserRevceiverComplimentsService {
   async execute(user_id: string) {
@@ -11,7 +12,7 @@ class ListUserRevceiverComplimentsService {
       },
       relations: ["userSender", "userReceiver", "tag"],
     });
-    return compliments;
+    return classToPlain(compliments);
   }
 }
 export { ListUserRevceiverComplimentsService };

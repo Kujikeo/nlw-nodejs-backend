@@ -20,6 +20,7 @@ O projeto fez uso das seguintes tecnologias:
 - [JWT](https://jwt.io/)
 - [Insomnia](https://insomnia.rest/)
 - [Class-transformer](https://github.com/typestack/class-transformer)
+- [Beekeeper](https://www.beekeeperstudio.io/)
 
 # Pré-requisitos
 
@@ -56,6 +57,11 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - Abrirá uma nova janela, clique em import data
 - Selecione o arquivo que vem clonado "Insomnia_2021-06-26"
 - Proto
+
+## Imagens
+
+<p align="center"><img src="./imgs/insomnia01.png" ></p>
+<p align="center"><img src="./imgs/beekeper.png" ></p>
 
 ## ❤️ Rockseat
 
