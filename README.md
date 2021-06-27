@@ -59,8 +59,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ## Imagens
 
-<p align="center"><img src="src/imgs/insomnia01.png" ></p>
-<p align="center"><img src="src/imgs/beekeper.png" ></p>
+<p align="center"><img src="src/imgs/insomnia01.PNG" ></p>
+<p align="center"><img src="src/imgs/beekeper.PNG" ></p>
 
 ## ❤️ Rockseat
 
