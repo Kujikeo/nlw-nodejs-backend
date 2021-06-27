@@ -67,4 +67,4 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 <p align="center"><img src="src/imgs/nlw.png" ></p>
 
 Site:
-[Rockseat](https://rocketseat.com.br/)
+[Rocketseat](https://rocketseat.com.br/)
