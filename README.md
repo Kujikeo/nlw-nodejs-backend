@@ -62,7 +62,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 <p align="center"><img src="src/imgs/insomnia01.PNG" ></p>
 <p align="center"><img src="src/imgs/beekeper.PNG" ></p>
 
-## ❤️ Rockseat
+## ❤️ Rocketseat
 
 <p align="center"><img src="src/imgs/nlw.png" ></p>
 
