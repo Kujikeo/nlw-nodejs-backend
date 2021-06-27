@@ -6,7 +6,6 @@
 # 🔎 Sobre Valoriza
 
 <p>É um back-end que possibilita fazer elogios a outros usuários do sistema.</p>
-<p align="center"><img src="./imagens/telaInicial.PNG" ></p>
 
 # ⚔ Tecnologias
 
