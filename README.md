@@ -59,12 +59,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ## Imagens
 
-<p align="center"><img src="../nlwValoriza/src/imgs/insomnia01.png" ></p>
-<p align="center"><img src="../nlwValoriza/src/imgs/beekeper.png" ></p>
+<p align="center"><img src="src/imgs/insomnia01.png" ></p>
+<p align="center"><img src="src/imgs/beekeper.png" ></p>
 
 ## ❤️ Rockseat
 
-<p align="center"><img src="../nlwValoriza/src/imgs/nlw.png" ></p>
+<p align="center"><img src="src/imgs/nlw.png" ></p>
 
 Site:
 [Rockseat](https://rocketseat.com.br/)
